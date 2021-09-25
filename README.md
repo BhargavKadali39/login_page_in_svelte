@@ -1,6 +1,6 @@
 # login_page_in_svelte
 
-This repo was my one of my beginners project to show off as I didnt had many.
+This repo belongs to one of my beginner project,to show off my skill as I didnt had many project's based on svelte in general.
 
 Hope you like it ;-]
 
